@@ -3,8 +3,8 @@ A school project that I made as part of a 6–person team, over the course of 4 
 It is a serious VR game for distracting children in hospitals, made with Unity version 2021.3.17f1 and done in collaboration with Rigshospitalet (The Danish National Hospital). 
 Unity VR and the OpenXR module were used for development.
 
-The game is about locating the sound sources of different animals with the VR controller, and is designed to distract and calm children during needle procedures.
-Has also been tested on a sample group of 13 participants at Rigshospitalet. 
+The game is about locating the sound sources of different animals in the environment, using the VR controller. It is designed to distract and calm children during medical needle procedures
+and has also been tested on a sample group of 13 participants at Rigshospitalet. 
 
 Version control was originally done with Plastic SCM, but I uploaded the project here on GitHub as well, in order to have more accessible documentation.
 
