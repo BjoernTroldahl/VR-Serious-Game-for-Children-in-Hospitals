@@ -31,30 +31,30 @@ build it directly from Unity. These tutorials will mainly be for Meta Quest 2, d
 which can transfer files from the PC to the Headset.
 
 ### To install it through the APK:
-1 Install a third-party software to install APK’s to the headset, such as SideQuest.
+1. Install a third-party software to install APK’s to the headset, such as SideQuest.
 
-2 Set up the app following the instructions and install it to the headset.
+2. Set up the app following the instructions and install it to the headset.
 
-3 Through the app, transfer the APK to the headset.
+3. Through the app, transfer the APK to the headset.
 
-4 In the headset, navigate to the "Unknown Sources" tab and launch the app "MED6-Pain-
+4. In the headset, navigate to the "Unknown Sources" tab and launch the app "MED6-Pain-
 Distraction".
 
 ### To install it through Unity (Recommended):
-1 Install the Unity version "2021.3.17f1" with the Android Build Support Module.
+1. Install the Unity version "2021.3.17f1" with the Android Build Support Module.
 
-2 Import the project into Unity and launch it.
+2. Import the project into Unity and launch it.
 
-3 Once the project is opened, navigate to the build settings (File → Build Settings or
+3. Once the project is opened, navigate to the build settings (File → Build Settings or
 Ctrl+Shift+B on Windows).
 
-4 Switch the platform to Android.
+4. Switch the platform to Android.
 
-5 Select the headset under "Run Device".
+5. Select the headset under "Run Device".
 
-6 Press "Build and Run", which prompts to save the file locally first.
+6. Press "Build and Run", which prompts to save the file locally first.
 
-7 The project will now build, and once it has been built it will run automatically.
+7. The project will now build, and once it has been built it will run automatically.
 
-8 To re-open the project, navigate to the "Unknown Sources" tab in the headset, and
+8. To re-open the project, navigate to the "Unknown Sources" tab in the headset, and
 launch the app "MED6-Pain-Distraction".
