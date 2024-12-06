@@ -27,8 +27,7 @@ Frederik Stappert — project management, R&D and QA
 ## How to install and use:
 
 To install the prototype, there are two different methods. Either install it with the APK or
-build it directly from Unity. These tutorials will mainly be for Meta Quest 2, due to devel-
-opment happening with the Meta Quest 2. Both tutorials assume you have a USB-C Cable
+build it directly from Unity. These tutorials will mainly be for Meta Quest 2, due to development happening with the Meta Quest 2. Both tutorials assume you have a USB-C cable
 which can transfer files from the PC to the Headset.
 
 ### To install it through the APK:
