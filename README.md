@@ -33,7 +33,7 @@ which can transfer files from the PC to the Headset.
 ### To install it through the APK:
 1 Install a third-party software to install APK’s to the headset, such as SideQuest.
 
-2 Set-Up the app following the instructions and install it to the headset.
+2 Set up the app following the instructions and install it to the headset.
 
 3 Through the app, transfer the APK to the headset.
 
@@ -57,4 +57,4 @@ Ctrl+Shift+B on Windows).
 7 The project will now build, and once it has been built it will run automatically.
 
 8 To re-open the project, navigate to the "Unknown Sources" tab in the headset, and
-launch the app "MED6-Pain-Distraction"
+launch the app "MED6-Pain-Distraction".
