@@ -22,7 +22,7 @@ Maya Bordum — game & level design and QA
 
 Frederik Stappert — project management, R&D and QA
 
-<img src="https://github.com/user-attachments/assets/3d204dc4-9931-4313-8d39-720b0cc749bd" alt="VRplayerView" width="580" height="300">
+<img src="https://github.com/user-attachments/assets/3d204dc4-9931-4313-8d39-720b0cc749bd" alt="VRplayerView" width="1100">
 
 ## How to install and use:
 
