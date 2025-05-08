@@ -12,7 +12,7 @@ Version control was originally done with Plastic SCM, but I uploaded the project
 
 Freya Gade — lead programmer, R&D
 
-Bjørn Troldahl (me) — assistant programmer, sound designer and QA
+Bjørn Troldahl (me) — assistant programmer, sound designer, QA and shaders
 
 Julius Winther — game & level design and shaders
 
